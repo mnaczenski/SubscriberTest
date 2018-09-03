@@ -1,2 +1,2 @@
 # SubscriberTest
-simple plugin that adds a frontend-controller "Testcontroller" that shows a supplier-overview
+simple plugin that prints "test" on predispatch when it is installed 
